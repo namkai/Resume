@@ -41,16 +41,17 @@ img {
 
 #header {
     text-align: right;
-    background-color: rgb(68, 195, 225);
+    background-color: #18bfe6;
     border-bottom: 3px solid rgb(70,55,63);
 }
 #name {
-    width: 50%;
+    width: 30%;
     /*text-align: right;*/
     padding-top: 50px;
     margin-bottom: 0;
     margin-top: 0;
-    margin-left: 48%;
+    margin-left: 69%;
+    font-size: 50px;
 }
 
 #intro-container {
@@ -72,10 +73,12 @@ img {
 #profession {
     width: 50%;
     margin: 0px;
-    margin-left: 42%;
+    margin-left: 44%;
     /*padding: 10px;*/
     /*text-align: right;*/
-    background-color: rgb(68, 195, 225);
+    background-color: #18bfe6;
+    font-size: 25px;
+    margin-bottom: 5px;
 }
 
 #contact {
@@ -93,14 +96,15 @@ img {
 }
 
 .container {
-    margin: 0 8%;
+    margin: 0 auto;
     overflow: hidden;
     border-radius: 5px;
-    height: 1350px;
+    height: 1400px;
+    width: 1350px;
 }
 
 .intro {
-    margin: 15px 15px;
+    margin: 15px 40px;
 }
 
 .info {
