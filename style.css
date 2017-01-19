@@ -59,14 +59,14 @@ img {
     float: left;
     background-color: rgb(90, 91, 92);
     margin-top: 0;
-    height: 1230px;
+    height: 100%;
 }
 
 #info-container {
     width: 30%;
     float: left;
     background-color: rgb(77, 76, 78);
-    height: 1230px;
+    height: 100%;
 }
 
 #profession {
@@ -96,6 +96,7 @@ img {
     margin: 0 8%;
     overflow: hidden;
     border-radius: 5px;
+    height: 1350px;
 }
 
 .intro {
