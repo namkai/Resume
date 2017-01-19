@@ -41,7 +41,7 @@ img {
 
 #header {
     text-align: right;
-    background-color: #18bfe6;
+    background-color: #8db0c6;
     border-bottom: 3px solid rgb(70,55,63);
 }
 #name {
@@ -52,6 +52,7 @@ img {
     margin-top: 0;
     margin-left: 68%;
     font-size: 40px;
+    
 }
 
 #intro-container {
@@ -76,7 +77,7 @@ img {
     margin-left: 44%;
     /*padding: 10px;*/
     /*text-align: right;*/
-    background-color: #18bfe6;
+    background-color: #8db0c6;
     font-size: 25px;
     margin-bottom: 5px;
 }
