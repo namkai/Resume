@@ -38,6 +38,9 @@ img {
     margin-left: 5%;
     margin-right: 5%;
 }
+a {
+    color: rgb(251, 246, 224);
+}
 
 #header {
     text-align: right;
