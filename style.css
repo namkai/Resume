@@ -41,6 +41,12 @@ img {
 a {
     color: rgb(251, 246, 224);
 }
+h6{
+    margin: 0;
+    margin-bottom: 10px;
+    font-style: italic;
+    font-size: 13px;
+}
 
 #header {
     text-align: right;
@@ -121,4 +127,15 @@ a {
 
 .info {
     margin: 10px 10px;
+}
+.education {
+    margin: 0;
+    margin-bottom: 2px;
+    font-style: normal;
+    font-size: 14px;
+}
+.edu {
+    margin: 0;
+    font-size: 15px;
+    margin-bottom: 3px;
 }
