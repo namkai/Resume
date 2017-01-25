@@ -93,7 +93,15 @@ a {
     margin-top: 20px;
     border-radius: 5px;
 }
-
+.projects {
+    font-size: 13px;
+    margin-top: 0px;
+    margin-bottom: 5px !important;
+}
+.projects-ol {
+    padding: 0 7px;
+    margin: 5px;
+}
 .space {
     height: 2px;
     margin: 5px;
